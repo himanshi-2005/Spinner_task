@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edtf1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter first  list item"
+        android:paddingTop="40dp"
+        android:textSize="25sp"
+
+        />
+
+    <EditText
+        android:id="@+id/edtf2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter second list item"
+        android:paddingTop="40dp"
+        android:textSize="25sp"
+        />
+
+    <EditText
+        android:id="@+id/edtf3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="enter third list item"
+        android:paddingTop="40dp"
+        android:textSize="25sp"
+        />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:textSize="30sp"/>
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner_task</string>
+    <string-array name="gender">
+    <item name="select">Select your gender</item>
+     <item name="male">Male</item>
+     <item name="female">Female</item>
+      <item name="other" >Other</item>
+    </string-array>
+</resources>
